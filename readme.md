@@ -1,3 +1,5 @@
+# mongoose-password
+
 ```js
 var UserSchema = new Schema({
     name: String
